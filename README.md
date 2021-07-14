@@ -1,4 +1,4 @@
-# Covid_Case_Tracker
+
 
 # About
 “Covid Case Tracker  ” is an android application to show the covid cases. Users who have an android phone & active internet connection can know the covid case through this application.
